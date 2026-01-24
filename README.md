@@ -1,4 +1,4 @@
-# oil-wheel-selection
+# Oil Wheel Selection
 
 ## Tools
 - Modeling
