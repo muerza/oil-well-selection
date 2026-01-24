@@ -1,7 +1,7 @@
 # 🛢️ Oil Wheel Selection
 
 ## Objetive
-Creating a model to select 200 new oil weels 
+Creating a model to select 200 locations for new oil weels 
 
 ---
 
