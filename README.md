@@ -14,12 +14,12 @@ Creating a model to select 200 new oil weels
 
 ## Process
 - Data Cleaning
-- Data Exploration
+- Exploratory Data Analysis (EDA)
 - Data Visualization
 - Modeling
 - Evluation
-- Bootstraping
-- Metrics
+- Bootstrapping (Uncertainty Estimation)
+- Metrics (ML + Business)
 
 ---
 
