@@ -1,4 +1,4 @@
-# 🛢️ Oil Wheel Selection
+# 🛢️ Oil Well Selection
 
 ## Objetive
 Creating a model to select 200 locations for new oil wells
